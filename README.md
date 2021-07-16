@@ -68,7 +68,7 @@ But it is again impossible to express numbers up to 10^10^10^10^120.
 
 To express further, one must accept the imprecision that very large n and n^10^1000, for example, are indistinguishable.
 Then, numbers can be expressed in "10<sup>10<sup>n</sup></sup>" where n is expressed in scientific notation.
-
+For example, <sup>n</sup>10 = 10<sup>10<sup>10<sup>.<sup>.<sup>.<sup>.</sup></sup></sup></sup></sup></sup> n times.
 But it is again impossible to express numbers up to 10^10^10^10^10^120.
 
 And so on.
